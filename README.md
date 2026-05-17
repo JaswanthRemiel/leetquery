@@ -1,4 +1,4 @@
-# leetQuery — LeetCode GraphQL Query Builder
+# leetQuery - LeetCode GraphQL Query Builder
 
 A clean, GitHub Pages-compatible Jekyll site for building LeetCode GraphQL queries. Select fields, copy the payload, and test directly with the LeetCode API.
 
