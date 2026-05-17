@@ -2,7 +2,7 @@
 
 A clean, GitHub Pages-compatible Jekyll site for building LeetCode GraphQL queries. Select fields, copy the payload, and test directly with the LeetCode API.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Static HTML/CSS/JavaScript** — no framework
 - **Jekyll** for local development & deployment
