@@ -1,0 +1,13 @@
+{
+  "name": "leetQuery",
+  "version": "1.0.0",
+  "description": "LeetCode GraphQL Query Builder - Jekyll Static Site",
+  "private": true,
+  "scripts": {
+    "dev": "jekyll serve --livereload",
+    "build": "jekyll build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
