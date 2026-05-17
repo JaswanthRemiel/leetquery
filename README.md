@@ -8,7 +8,7 @@ A clean, GitHub Pages-compatible Jekyll site for building LeetCode GraphQL queri
 - **Jekyll** for local development & deployment
 - **GitHub Pages compatible**
 
-## 🎯 Available LeetCode Fields
+## Available LeetCode Fields
 
 - All questions count (easy/medium/hard breakdown)
 - Total solved submissions
@@ -20,7 +20,7 @@ A clean, GitHub Pages-compatible Jekyll site for building LeetCode GraphQL queri
 - Submission calendar (activity heatmap)
 - Recent submissions (last 20)
 
-## 🔗 API Endpoint
+## API Endpoint
 
 **URL:** `https://leetcode.com/graphql`  
 **Method:** `POST`  
@@ -28,7 +28,7 @@ A clean, GitHub Pages-compatible Jekyll site for building LeetCode GraphQL queri
 - `Content-Type: application/json`
 - `Referer: https://leetcode.com`
 
-## 📝 License
+## License
 
 This project is open source under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
